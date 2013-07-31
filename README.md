@@ -19,5 +19,7 @@ Bonafied Automation
 
 > Thus the project aims to improve service of issuing bonafide certificate and automate the whole process.
 
+Author- Shaifali Agrawal
+Co-Author- Ruchika Mandora
 
   
